@@ -1,5 +1,5 @@
 {
-  "name": "Darkness",
+  "name": "darkness",
   "description": "Dark themes for popular websites",
   "version": "1.0.0",
   "private": true,
@@ -10,7 +10,6 @@
     "Lior Grossman <lior@liorgrossman.com> (https://github.com/liorgrossman)"
   ],
   "bugs": {
-    "url": ""
   },
   "scripts": {
     "install": "gulp install",
