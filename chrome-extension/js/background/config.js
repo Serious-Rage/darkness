@@ -6,13 +6,13 @@ var GOOGLE_HOST_REGEXP = '^(www|encrypted)\.google\.(com|[a-z][a-z]|co\.[a-z][a-
 
 var CONFIG = {
 	appName: 'darkness',
-	defaultTheme: 'iceberg',
+	defaultTheme: 'rage',
 
 	// List of Darkness themes
 	themes: {
 		'rage': {
 			key: 'rage',
-			name: 'rage'
+			name: 'Rage'
 		},
 		'iceberg': {
 			key: 'iceberg',

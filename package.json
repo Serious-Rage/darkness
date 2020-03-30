@@ -8,7 +8,6 @@
   	"contributors": [
   		"Serious-Rage <#> (https://github.com/Serious-Rage)"
   	],
-  	"bugs": {},
   	"scripts": {
   		"install": "gulp install",
   		"start": "gulp sass:watch"
