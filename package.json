@@ -3,8 +3,8 @@
   "description": "Dark themes for popular websites",
   "version": "1.0.0",
   "private": true,
-  "author": "Lior Grossman",
-  "homepage": "https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm",
+  "author": "Serious-Rage",
+  "homepage": "http://theseriousgist.blogspot.com/",
   "contributors": [
     "Lior Grossman <lior@liorgrossman.com> (https://github.com/liorgrossman)"
   ],
@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liorgrossman/darkness"
+    "url": "https://github.com/Serious-Rage/darkness"
   }
 }
