@@ -10,6 +10,10 @@ var CONFIG = {
 
 	// List of Darkness themes
 	themes: {
+		'rage': {
+			key: 'rage',
+			name: 'rage'
+		},
 		'iceberg': {
 			key: 'iceberg',
 			name: 'Iceberg'
