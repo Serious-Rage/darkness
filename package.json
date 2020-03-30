@@ -1,12 +1,11 @@
 {
-  "name": "Darkness",
+  "name": "darkness",
   "description": "Dark themes for popular websites",
   "version": "1.0.0",
   "private": true,
   "author": "Lior Grossman",
   "homepage": "https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm",
   "contributors": [
-    "Serious-Rage <#> (https://github.com/Serious-Rage)",
     "Lior Grossman <lior@liorgrossman.com> (https://github.com/liorgrossman)"
   ],
   "bugs": {
