@@ -1,13 +1,12 @@
   {
-    "name": "Darkness",
+    "name": "darkness",
   	"description": "Darkbranch themes for popular websites",
   	"version": "1.0.0",
   	"private": true,
   	"author": "Serious-Rage (sfrwebarts)",
   	"homepage": "http://theseriousgist.blogspot.com/",
   	"contributors": [
-  		"Serious-Rage <#> (https://github.com/Serious-Rage)",
-  		"Lior Grossman <lior@liorgrossman.com> (https://github.com/liorgrossman)"
+  		"Serious-Rage <#> (https://github.com/Serious-Rage)"
   	],
   	"bugs": {},
   	"scripts": {
